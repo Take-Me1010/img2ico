@@ -3,6 +3,9 @@
 画像をicoに変換するコマンドラインツール
 CLI tool to convert your file into ico file.
 
+※このレポジトリはメンテナンスしていません。[ImageConverter](https://github.com/Take-Me1010/ImageConverter)に機能を統合させました。
+This repo is no longer maintained, and it has been incorporated into [ImageConverter](https://github.com/Take-Me1010/ImageConverter).
+
 ## 環境 / requirement
 
 - Python 3.x
